@@ -1,0 +1,3 @@
+Link do Google Colab: https://colab.research.google.com/drive/1OqKByJ8LIb-mc_uHrmg-iNe_TQnIPDcQ?usp=sharing
+Link do repositório no GitHub: https://github.com/luca-ferro/atividade2ia
+Link da Base de Dados no Keggle: https://www.kaggle.com/datasets/vijayvvenkitesh/microsoft-stock-time-series-analysis
